@@ -1,1 +1,3 @@
-# Calculas coursework 2
+# Calculas 2
+
+This file shows the use of matplotlib package to plot the level curves of the function f(x,y) = xy/e^(2x^2 +y^4) for two functons where it plots the level curve of the function f(x,y) and the second code the surface of f(x,y). The final code is a function which exacutes a function of three parametersas input: two real a, tmax and integer n. The function should generate a parameter 3D plot of the function f(t) = ( x(t),y(t),z(t) ) where x(t)=cos(at), y(t)=(4+sin(at))cos(t) and z(t)= (4+sin(at))sin(t). Where t is closed set between 0 to tmax. The number of points on the curve should be given by the parameter n and the function should return return the figure object
